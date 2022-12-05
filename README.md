@@ -50,3 +50,4 @@ print(control.value)
 
 For the next step, we will going through a really cool idea. Including augmented reality in our simple game. This can be simply realized by [pico4ML](https://www.arducam.com/pico4ml-an-rp2040-based-platform-for-tiny-machine-learning/). And also, the user input will be changing from the simple button input to [gyro IMU sensor](https://www.adafruit.com/product/4480), we are planning to use PIO module to drive the sensor for more frequent input.
 
+![img_20221205034510](README.assets/img_20221205034510.png)
